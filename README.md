@@ -1,0 +1,2 @@
+# Data_Collection_GUI
+实现对图像取点数据的打分和RGB值存储，是RGB那个repository的V4版本。
